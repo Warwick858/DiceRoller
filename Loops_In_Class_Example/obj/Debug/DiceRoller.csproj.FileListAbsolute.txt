@@ -1,0 +1,6 @@
+D:\Documents\Courses\Fall 2014\CS 1400\Loops - Class 10.28\Loops_In_Class_Example\Loops_In_Class_Example\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+D:\Documents\Courses\Fall 2014\CS 1400\Loops - Class 10.28\Loops_In_Class_Example\Loops_In_Class_Example\bin\Debug\DiceRoller.exe.config
+D:\Documents\Courses\Fall 2014\CS 1400\Loops - Class 10.28\Loops_In_Class_Example\Loops_In_Class_Example\bin\Debug\DiceRoller.exe
+D:\Documents\Courses\Fall 2014\CS 1400\Loops - Class 10.28\Loops_In_Class_Example\Loops_In_Class_Example\bin\Debug\DiceRoller.pdb
+D:\Documents\Courses\Fall 2014\CS 1400\Loops - Class 10.28\Loops_In_Class_Example\Loops_In_Class_Example\obj\Debug\DiceRoller.exe
+D:\Documents\Courses\Fall 2014\CS 1400\Loops - Class 10.28\Loops_In_Class_Example\Loops_In_Class_Example\obj\Debug\DiceRoller.pdb
